@@ -1,6 +1,6 @@
 ---
 title:  "Title"
-date:   Date 2018/01/07
+date:   Date Year-Month-day
 categories: general
 tags: [Getting Started, Thoughts]
 ---
